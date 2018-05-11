@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
-    "now-start": "forever index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "now-start": "forever index.js"
   },
   "repository": {
     "type": "git",
